@@ -1,0 +1,16 @@
+#table {
+  border: 1px solid green;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid green;
+}
+
+.blue {
+  background-color: yellow;
+}
+
+.blue:hover {
+  text-transform: uppercase;
+}
